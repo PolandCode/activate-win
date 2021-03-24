@@ -4,6 +4,6 @@ Instructions:
 
 Paste the script into a .txt file
 
-Rename the .txt to .bat
+Change the file extension to .bat
 
 Run the .bat file as an administrator
